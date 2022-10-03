@@ -1,3 +1,6 @@
+<a href="#"><img width="100%" height="auto" src="https://share.creavite.co/DWWMrBzMR0zs9DaE.gif" height="100px"/></a>
+
+
 <h1 align="center">Hi 👋, I'm Romijul Laskar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
