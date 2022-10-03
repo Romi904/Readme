@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romi904&label=Profile%20views&color=0e75b6&style=flat" alt="romi904" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romi904" alt="romi904" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romi904&theme=juicyfresh" alt="romi904" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/romijul_laskar" target="blank"><img src="https://img.shields.io/twitter/follow/romijul_laskar?logo=twitter&style=for-the-badge" alt="romijul_laskar" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
