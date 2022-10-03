@@ -32,7 +32,8 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 
-<a href="#"><img width="100%" height="auto" src="https://share.creavite.co/CKxitoLg0ByAQ7Ox.gif" height="100px"/></a>
+//name banner 
+<a href="#"><img width="100px" height="100px" src="https://share.creavite.co/CKxitoLg0ByAQ7Ox.gif"/></a>
 
 <p align="left">
 <a href="https://twitter.com/romijul_laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="romijul_laskar" height="30" width="40" /></a>
