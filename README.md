@@ -7,6 +7,11 @@
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/romi904/count.svg" />
+</p> -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romi904&label=Profile%20views&color=0e75b6&style=flat" alt="romi904" /><img src="https://img.shields.io/badge/Sponsor-GitVol-cyan" alt="romi904" /> <img src="https://img.shields.io/badge/Code-is%20%E2%9D%A4-red" alt="img"/></p>
 
 
