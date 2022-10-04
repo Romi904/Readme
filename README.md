@@ -20,7 +20,7 @@
   <img src="https://profile-counter.glitch.me/romi904/count.svg" />
 </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romi904&label=Profile%20views&color=0e75b6&style=flat" alt="romi904" /><img src="https://img.shields.io/badge/Sponsor-GitVol-cyan" alt="romi904" /> <img src="https://img.shields.io/badge/Code-is%20%E2%9D%A4-red" alt="img"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romi904&label=Profile%20views&color=0e75b6&style=flat" alt="romi904" /> <img src="https://img.shields.io/badge/Sponsor-GitVol-cyan" alt="romi904" /> <img src="https://img.shields.io/badge/Code-is%20%E2%9D%A4-red" alt="img"/> <img src="https://img.shields.io/github/followers/romi904?color=red&label=Followers&logo=github&logoColor=black&style=social" alt=""</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romi904&theme=juicyfresh" alt="romi904" /></a> </p>
