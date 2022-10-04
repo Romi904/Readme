@@ -1,5 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://share.creavite.co/DWWMrBzMR0zs9DaE.gif" height="100px"/></a>
 
+<div align=center>
+    <a href="https://github.com/Sabyasachi-Seal">
+    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+    </a>
+ </div>
+ <a href="https://github.com/Sabyasachi-Seal">
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%234AF736&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer+🌟🌟🌟;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Engineer;Tech+Geek" />
+    </a>
 
 <h1 align="center">Hi 👋, I'm Romijul Laskar</h1>
 
@@ -69,5 +77,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=100&vCenter=true&multiline=true&width=435&height=160&lines=While(alive)%7B;eat();sleep();code();repeat();%7D)](https://git.io/typing-svg)
 
 <hr>
+
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">
