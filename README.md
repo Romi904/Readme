@@ -1,9 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://share.creavite.co/DWWMrBzMR0zs9DaE.gif" height="100px"/></a>
 
 
-<!--<h1 align="center">Hi 👋, I'm Romijul Laskar</h1>-->
+<h1 align="center">Hi 👋, I'm Romijul Laskar</h1>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=1000&pause=199&vCenter=true&width=435&height=60&lines=Hi+;%E2%A0%80Hi+%F0%9F%91%8B%2C;%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+Laskar;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+Laskar;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+Laskar" alt="Hi 👋, I'm Romijul Laskar" /></a> </p>
+<!--<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=1000&pause=199&vCenter=true&width=435&height=60&lines=Hi+;%E2%A0%80Hi+%F0%9F%91%8B%2C;%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+Laskar;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+Laskar;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+Laskar" alt="Hi 👋, I'm Romijul Laskar" /></a> </p> -->
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
