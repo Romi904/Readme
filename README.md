@@ -58,4 +58,8 @@
 
 <hr>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=100&vCenter=true&multiline=true&width=435&height=160&lines=While(alive)%7B;eat();sleep();code();repeat();%7D)](https://git.io/typing-svg)
+
+<hr>
+
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">
