@@ -66,17 +66,29 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&locale=en" alt="romi904" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&locale=en" alt="romi904" /></p>-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&theme=radical)](https://github.com/romi904/github-readme-stats)
+
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+-->
 
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romi904&" alt="romi904" /></p>
 
-<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romi904&layout=compact)](https://github.com/romi904/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=100&vCenter=true&multiline=true&width=435&height=160&lines=While(alive)%7B;eat();sleep();code();repeat();%7D)](https://git.io/typing-svg)
-
-<hr>
-
-
+<div align=center>
+    <a href="https://github.com/Sabyasachi-Seal">
+    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+    </a>
+ </div>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">
+
