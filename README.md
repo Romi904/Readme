@@ -72,7 +72,8 @@
 <hr>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&locale=en" alt="romi904" /></p>-->
-[![Romijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romi904&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)](https://github.com/Romi904/README.md)
+### 
+[![Romijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romi904&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)](https://github.com/Romi904/README.md)&nbsp;
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
