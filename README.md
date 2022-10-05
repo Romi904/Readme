@@ -23,7 +23,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romi904&label=Profile%20views&color=0e75b6&style=flat" alt="romi904" /> <img src="https://img.shields.io/badge/Sponsor-GitVol-cyan" alt="romi904" /> <img src="https://img.shields.io/badge/Code-is%20%E2%9D%A4-red" alt="img"/> <img src="https://img.shields.io/github/followers/romi904?color=red&label=Followers&logo=github&logoColor=black&style=social" alt=""</p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romi904&theme=juicyfresh" alt="romi904" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romi904&theme=juicyfresh" alt="romi904" /></a> </p>-->
+
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=romi904&row=2&column=3&theme=oldie&margin-w=15&margin-h=15" alt="img" />
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/romijul_laskar" target="blank"><img src="https://img.shields.io/twitter/follow/romijul_laskar?logo=twitter&style=for-the-badge" alt="romijul_laskar" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
@@ -67,7 +72,7 @@
 <hr>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&locale=en" alt="romi904" /></p>-->
-[![Romijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&theme=radical)](https://github.com/romi904/github-readme-stats)
+[![Romijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&theme=radical&include_all_commits=true&border_radius=10)](https://github.com/romi904/github-readme-stats)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
