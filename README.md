@@ -57,10 +57,10 @@
 
 <p align="left">
 <a href="https://twitter.com/romijul_laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="romijul_laskar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iamromijul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamromijul/" height="30" width="40" /></a>
-<a href="https://fb.com/https://en-gb.facebook.com/romijul.laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://en-gb.facebook.com/romijul.laskar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/iamromi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamromi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/iamromi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/iamromi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iamromijul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamromijul/" height="30" width="40" /></a>
+<a href="https://en-gb.facebook.com/romijul.laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://en-gb.facebook.com/romijul.laskar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ilaskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamromi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/IamRomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/iamromi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/romilaskar904/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/romilaskar904/practice/" height="30" width="40" /></a>
 </p>
 
