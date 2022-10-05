@@ -73,7 +73,7 @@
 <hr>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&locale=en" alt="romi904" /></p>-->
-[![Romijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&theme=radical&include_all_commits=true&border_radius=10)](https://github.com/romi904/github-readme-stats)
+[![Romijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romi904&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)](https://github.com/Romi904/github-readme-stats)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -87,9 +87,9 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romi904&" alt="romi904" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romi904&theme=tokyonight&hide_border=true&border_radius=20" alt="romi904" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romi904&layout=compact)](https://github.com/romi904/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romi904&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)](https://github.com/romi904/github-readme-stats)
 
 <div align=center>
     <a href="https://github.com/Sabyasachi-Seal">
