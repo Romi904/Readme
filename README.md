@@ -67,7 +67,7 @@
 <hr>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&locale=en" alt="romi904" /></p>-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&theme=radical)](https://github.com/romi904/github-readme-stats)
+[![Romijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&theme=radical)](https://github.com/romi904/github-readme-stats)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
