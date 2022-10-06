@@ -73,7 +73,7 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&locale=en" alt="romi904" /></p>-->
 ### 
-[![Romijul's GitHub stats](https://readme-stats-rho-one.vercel.app/api?username=Romi904&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)](https://github.com/Romi904/README.md)&nbsp;
+[![Romijul's GitHub stats](https://readme-stats-rho-one.vercel.app/api?username=Romi904&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)](https://github.com/Romi904/Romi904)&nbsp;
 <!-- original api = https://github-readme-stats.vercel.app/api?username=Romi904&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true-->
 
 <!--
