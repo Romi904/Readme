@@ -73,7 +73,8 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romi904&show_icons=true&locale=en" alt="romi904" /></p>-->
 ### 
-[![Romijul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romi904&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)](https://github.com/Romi904/README.md)&nbsp;
+[![Romijul's GitHub stats](https://readme-stats-rho-one.vercel.app/api?username=Romi904&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true)](https://github.com/Romi904/README.md)&nbsp;
+<!-- original api = https://github-readme-stats.vercel.app/api?username=Romi904&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true-->
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -88,8 +89,18 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romi904&theme=tokyonight&hide_border=true&border_radius=20" alt="romi904" /></p>
+<!-- original api =https://github-readme-stats.vercel.app/api/top-langs/?username=romi904&layout=compact&theme=tokyonight&hide_border=true&border_radius=20 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romi904&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)](https://github.com/romi904/github-readme-stats)
+[![Top Langs](https://readme-stats-rho-one.vercel.app/api/top-langs/?username=romi904&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)](https://github.com/Romi904/Romi904)
+
+<div align=center>
+    <a href="https://github.com/Romi904">
+    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+    </a>
+ </div>
+<b>👨‍💻Quote of The Day</b>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=blueberry&animation=grow_out_in&layout=churchill&font=default)&nbsp;
 
 <div align=center>
     <a href="https://github.com/Romi904">
