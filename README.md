@@ -22,10 +22,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=romi904&label=Profile%20views&color=0e75b6&style=flat" alt="romi904" /> <img src="https://img.shields.io/badge/Sponsor-GitVol-cyan" alt="romi904" /> <img src="https://img.shields.io/github/contributors-anon/Romi904/Durmello?color=FDFF00&label=Audience&logo=github&logoColor=FDFF00" alt="" /> <img src="https://img.shields.io/badge/Code-is%20%E2%9D%A4-red" alt="img"/> <img src="https://img.shields.io/github/last-commit/Romi904/Romi904" alt="" /> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRomi904%2FRomi904&count_bg=%23A8C83D&title_bg=%23DC1414&icon=github.svg&icon_color=%23FFFFFF&title=PRESSED&edge_flat=false" alt="" /> <img src="https://img.shields.io/github/followers/romi904?color=red&label=Followers&logo=github&logoColor=black&style=social" alt=""</p>
 
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romi904&theme=juicyfresh" alt="romi904" /></a> </p>-->
+<!--<p align="left"> <a href="https://github.com/romi904/romi904"><img src="https://github-profile-trophy.vercel.app/?username=romi904&theme=onedark" alt="romi904" /></a> </p>-->
 
 <p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=romi904&row=2&column=3&theme=oldie&margin-w=15&margin-h=15" alt="img" />
+<img src="https://github-profile-trophy.vercel.app/?username=romi904&row=2&column=3&theme=chalk&no-frame=true&margin-w=15&margin-h=15" alt="img" />
 </p>
 
 
