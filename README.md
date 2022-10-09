@@ -25,7 +25,7 @@
 <!--<p align="left"> <a href="https://github.com/romi904/romi904"><img src="https://github-profile-trophy.vercel.app/?username=romi904&theme=onedark" alt="romi904" /></a> </p>-->
 
 <p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=romi904&row=2&column=3&theme=chalk&no-frame=true&margin-w=15&margin-h=15" alt="img" />
+<img src="https://github-profile-trophy.vercel.app/?username=Romi904&row=2&column=3&theme=chalk&no-frame=true&margin-w=15&margin-h=15" alt="img" />
 </p>
 
 
