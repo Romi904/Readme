@@ -30,7 +30,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/romijul_laskar" target="blank"><img src="https://img.shields.io/twitter/follow/romijul_laskar?logo=twitter&style=for-the-badge" alt="romijul_laskar" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 <hr>
 
 - 🔭 I’m currently working on **Artificial intelligence**
