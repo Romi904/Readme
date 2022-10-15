@@ -29,7 +29,9 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/romijul_laskar" target="blank"><img src="https://img.shields.io/twitter/follow/romijul_laskar?logo=twitter&style=for-the-badge" alt="romijul_laskar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/romijul_laskar" target="blank"><img src="https://img.shields.io/twitter/follow/romijul_laskar?logo=twitter&style=for-the-badge" alt="romijul_laskar" /></a>
+<a href="https://dev.to/romijul_laskar" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="img"</a>
+</p>
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 <hr>
 
