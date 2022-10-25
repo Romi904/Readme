@@ -45,7 +45,7 @@
 
 - 👨‍💻 All of my projects are available at [--NA--](--NA--)
 
-- 💬 Ask me about **HTML,JS,REACT,ML,AI**
+- 💬 Ask me about **HTML,JS,REACT,ML,AI,Android Developement,AndroidStudio**
 
 - 📫 How to reach me **romijullaskar13@gmail.com**
 
