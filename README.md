@@ -13,7 +13,7 @@
 
 <!--<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=1000&pause=199&vCenter=true&width=435&height=60&lines=Hi+;%E2%A0%80Hi+%F0%9F%91%8B%2C;%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+Laskar;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+Laskar;%E2%A0%80%E2%A0%80Hi+%F0%9F%91%8B%2C+I'm+Romijul+Laskar" alt="Hi 👋, I'm Romijul Laskar" /></a> </p> -->
 
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <!-- <p align="center"> 
   Visitor count<br>
@@ -48,6 +48,8 @@
 - 💬 Ask me about **HTML,JS,REACT,ML,AI,Android Developement,AndroidStudio**
 
 - 📫 How to reach me **romijullaskar13@gmail.com**
+
+- 👨‍🎓 Speciality Android Developement , Web Developement , Competitive Programming
 
 - ⚡ Fun fact **Born To Win Ready To Race 🏁**
 
