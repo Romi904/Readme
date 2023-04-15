@@ -43,7 +43,7 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 👨‍💻 All of my projects are available at [--NA--](--NA--)
+<!-- 👨‍💻 All of my projects are available at [--NA--](--NA--)-->
 
 - 💬 Ask me about **HTML,JS,REACT,ML,AI,Android Developement,AndroidStudio**
 
