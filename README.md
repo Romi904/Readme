@@ -104,7 +104,7 @@
  </div>
 <b>👨‍💻Quote of The Day</b>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=blueberry&animation=grow_out_in&layout=churchill&font=default)&nbsp;
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)&nbsp;
 
 <div align=center>
     <a href="https://github.com/Romi904">
