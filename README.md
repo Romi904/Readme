@@ -111,10 +111,15 @@
     <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
     </a>
  </div>
+ 
+ [![An image of @iamromi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamromi)](https://holopin.io/@iamromi)
+ 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">
 <div align=center>
    <a href="https://github.com/Romi904">
    <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg"/>
    <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
 </div>
+
+
 
